@@ -1,8 +1,8 @@
-for n in range(70):
+for n in range((8*8)+5):
 	print(n)
-name ='Means i wanna 69 with ya'
+name ='Means i wanna 69 with ya, ohhhhhhhh shit. Math Class, i wasnt good :('
 print(name)
-if name == ('null'):
+if name == ('34+35'):
 	print('Eh isto, acabou')
 else:
 	print('Liviazinhaaa - The best Main Seraphine in BR ''@txiagotagram')
